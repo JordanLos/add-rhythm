@@ -9,8 +9,8 @@ Resize-rhythm measures the height of an element when the window resizes and adds
 $( selector ).resize-rhythm([height])`
 
 ### Examples
-Apply to all images to a 12px baseline  
+Apply to all images with a 12px baseline  
 `$( 'img' ).resize-rhythm(12)`
 
-Apply to a single ID'd element to a 25px baseline  
+Apply to a single ID'd element with a 25px baseline  
 `$( '#my-id' ).resize-rhythm(12)`
