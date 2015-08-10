@@ -13,4 +13,4 @@ Apply to all images to a 12px baseline
 `$( 'img' ).resize-rhythm(12)`
 
 Apply to a single ID'd element to a 25px baseline  
-$( '#my-id' ).resize-rhythm(12)`
+`$( '#my-id' ).resize-rhythm(12)`
